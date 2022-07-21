@@ -19,7 +19,7 @@ export const LoginForm = () => {
         size="large"
         placeholder="请您输入用户名"
         prefix={<UserOutlined />}
-        style={{ marginBottom: '35px' }}
+        style={{ marginBottom: '20px' }}
       />
       <Input.Password
         placeholder="请您输入密码"
